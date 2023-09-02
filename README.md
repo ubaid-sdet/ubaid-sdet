@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm a software developer in test (SDET) who loves to explore the realms of test automation, process streamlining, and all things tech. With a knack for problem-solving and an enthusiasm for continuous learning, I'm on a mission to automate the world, one process at a time.
+I'm a software developer in test (SDET) who loves to explore the realms of test automation, process streamlining, and all things tech. With a knack for problem-solving and an enthusiasm for continuous learning, I'm on a mission to automate the planet, one process at a time.
 
 ### Tech Stack
 
